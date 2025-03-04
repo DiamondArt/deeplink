@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ecotic.mobile",
+      "sha256_cert_fingerprints":
+      ["09:05:EF:DE:6E:DA:5E:81:25:9E:8F:F6:7C:3F:5B:6B:CB:D2:DD:30:7F:07:93:41:B0:56:97:2F:78:D4:AE:4B"]
+    }
+  }]
